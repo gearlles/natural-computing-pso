@@ -1,5 +1,6 @@
-import com.gearlles.naturalcomputing.pso.gui.PSOVisualizer;
+package com.gearlles.naturalcomputing.pso;
 
+import com.gearlles.naturalcomputing.pso.gui.PSOVisualizer;
 
 public class Main {
 
