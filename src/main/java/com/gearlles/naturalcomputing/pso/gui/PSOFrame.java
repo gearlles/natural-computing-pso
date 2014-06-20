@@ -1,19 +1,13 @@
 package com.gearlles.naturalcomputing.pso.gui;
 
 import java.awt.Color;
-import java.awt.Dimension;
 import java.awt.Graphics;
-import java.awt.Point;
-import java.awt.event.MouseAdapter;
-import java.awt.event.MouseEvent;
 import java.awt.geom.Point2D;
 import java.awt.geom.Point2D.Double;
 import java.util.ArrayList;
 import java.util.List;
 
 import javax.swing.JFrame;
-
-import com.gearlles.naturalcomputing.pso.core.Particle;
 
 public class PSOFrame extends JFrame {
 	
